@@ -1,0 +1,1 @@
+# Definindo uma base para automação de teste bem-sucedida
