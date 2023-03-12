@@ -130,5 +130,34 @@ Os testadores manuais também são uma opção viável para triagem de falhas de
 Embora todos os desenvolvedores e testadores certamente possam ajudar na triagem e atualização de scripts de automação de teste, porque não é sua responsabilidade principal, ainda é necessário alguém para monitorar isso de forma consistente. Testes não monitorados são testes não confiáveis. Como sua equipe continua perdendo a confiança nos testes automatizados, eles tendem a confiar menos neles e o projeto de automação acaba morrendo.
 
 
+# Questionário 
 
+1. Qual NÃO é uma meta razoável para automação de teste?
+- [ ] Libere recursos mais rapidamente
+- [ ] Ativar teste contínuo
+- [ ] Reduza o tempo de teste de regressão
+- [x] Resolva todos os problemas de qualidade
  
+ 2. Qual é a primeira coisa que deve ser decidida antes de iniciar uma nova iniciativa de automação de teste?
+- [ ] Qual linguagem de programação usar
+- [x] Qual é o objetivo da automação
+- [ ] Quantas pessoas são necessárias
+- [ ] Qual estrutura usar
+
+ 3. Quais dessas tarefas estão associadas a um projeto de automação de teste?
+- [ ] Autoria de testes automatizados
+- [ ] Resultados do teste de monitoramento
+- [ ] Manutenção de testes automatizados
+- [x] Todos acima
+
+ 4. O que NÃO é uma consideração ao determinar quem escreverá os testes automatizados?
+- [ ] capacidade da pessoa
+- [ ] Conjunto de habilidades da pessoa
+- [x] antiguidade da pessoa
+- [ ] desejo da pessoa
+
+ 5. É recomendável que seu primeiro teste automatizado seja imediatamente adicionado à integração contínua para começar a bloquear os check-ins do desenvolvedor:
+- [ ] Verdadeiro
+- [x] Falso
+
+
