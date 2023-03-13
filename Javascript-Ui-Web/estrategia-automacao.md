@@ -130,7 +130,7 @@ Os testadores manuais também são uma opção viável para triagem de falhas de
 Embora todos os desenvolvedores e testadores certamente possam ajudar na triagem e atualização de scripts de automação de teste, porque não é sua responsabilidade principal, ainda é necessário alguém para monitorar isso de forma consistente. Testes não monitorados são testes não confiáveis. Como sua equipe continua perdendo a confiança nos testes automatizados, eles tendem a confiar menos neles e o projeto de automação acaba morrendo.
 
 
-# Questionário 
+## Questionário 
 
 1. Qual NÃO é uma meta razoável para automação de teste?
 - [ ] Libere recursos mais rapidamente
