@@ -11,3 +11,8 @@ Muitas empresas começam sua jornada de automação de teste com prova de concei
 considerações iniciais que devem ser feitas para melhor prepará-lo para o futuro do seu projeto de automação de teste
 - Como otimizar e dimensionar seu projeto de automação para suas necessidades de negócios
 - Como quantificar o retorno de seu investimento e compartilhar o valor de sua automação de teste com sua organização.
+
+--------
+<p align="center">
+ Olá, sinta-se à vontade para mostrar apoio e dar a este repo<img src="https://img.icons8.com/fluency/20/null/star.png"/>estrela! Significa muito, obrigado :) 
+</p>

@@ -161,3 +161,7 @@ Embora todos os desenvolvedores e testadores certamente possam ajudar na triagem
 - [x] Falso
 
 
+--------
+<p align="center">
+ Olá, sinta-se à vontade para mostrar apoio e dar a este repo<img src="https://img.icons8.com/fluency/20/null/star.png"/>estrela! Significa muito, obrigado :) 
+</p>
