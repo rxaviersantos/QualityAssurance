@@ -151,10 +151,10 @@ Embora todos os desenvolvedores e testadores certamente possam ajudar na triagem
 - [x] Todos acima
 
  4. O que NÃO é uma consideração ao determinar quem escreverá os testes automatizados?
-- [ ] capacidade da pessoa
+- [ ] Capacidade da pessoa
 - [ ] Conjunto de habilidades da pessoa
-- [x] antiguidade da pessoa
-- [ ] desejo da pessoa
+- [x] Antiguidade da pessoa
+- [ ] Desejo da pessoa
 
  5. É recomendável que seu primeiro teste automatizado seja imediatamente adicionado à integração contínua para começar a bloquear os check-ins do desenvolvedor:
 - [ ] Verdadeiro
