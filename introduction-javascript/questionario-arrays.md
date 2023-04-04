@@ -3,52 +3,60 @@ Questionário - Arrays
 </h1>
 
 
-1. Quais são as 3 formas de criar uma variável em JavaScript?
-- [ ] Int, Double, String
-- [x] let, const, var
-- [ ] Variable, Constant, Letter
+1. Qual destes melhor descreve arrays?
+- [x] Uma estrutura de dados para armazenar vários valores na mesma variável
+- [ ] Múltiplas variáveis ​​com as quais podemos trabalhar no código
+- [ ] Estruturas de dados que podem armazenar apenas um único valor, mas nos ajudam a organizar nosso código
  
 
 
-2. Você pode reatribuir o valor de uma variável declarada com const?
-- [x] Verdadeiro
-- [ ] Falso
-
-
-3. Qual nome de variável é válido?
-- [ ] -numberOfCars-
-- [ ] number-Of-Cars
-- [x] number_of_Cars
-
-4. Qual é um valor String válido?
-- [x] “Carros são feitos para dirigir”
-- [ ] Carros são feitos para dirigir
-- [ ] *Carros são feitos para dirigir*
-- [ ] <Carros são feitos para dirigir>
-
-5.  Quais dos seguintes são tipos de dados para variáveis ​​em JavaScript?
-- [ ] Strings, Digits, Boolean, Nullify
-- [ ] Numbers, Digits, Letters, Unavailable
-- [x] Strings, Numbers, Boolean, Undefined, Null
-
-
-6. Quando você deve usar um tipo de dados numérico versus um tipo de dados string?
-- [ ] Os números são ótimos para senhas porque um número longo é uma ótima senha
-- [x] Números são melhores quando você quer fazer matemática, Strings são bons para palavras ou combinações de caracteres
-- [ ] Eles podem ser usados ​​de forma intercambiável
-- [ ] Strings são boas para cálculos porque têm um comprimento maior
-
-7. Qual tipo de dados é melhor usado para responder verdadeiro ou falso em JavaScript?
-- [ ] Undefined/Null
+2. Que tipos de valores os arrays podem armazenar?
+- [x] Todos os valores JavaScript
+- [ ] Numbers
 - [ ] Strings
-- [x] Boolean
+- [ ] Other arrays
 
 
-8. Qual declaração descreve melhor indefinido e nulo?
-- [ ] indefinido e nulo são iguais, você pode escolher o que for mais conveniente
-- [ ] undefined tem mais poder que null
-- [x] undefined representa uma variável que não possui um valor, null representa uma variável que foi atribuída a null.
-- [ ] Ambos são confusos, vamos seguir em frente
+3. Por que os arrays são essenciais para a programação?
+- [ ] Variáveis ​​e arrays são essencialmente os mesmos, então eles são intercambiáveis.
+- [x] Na programação, muitas vezes é útil trabalhar com listas de dados
+- [] A variedade na programação é extremamente valiosa ao aprender a codificar
+  
+4.  No código, como criar um array vazio?
+- [x] const array = [];
+- [ ] var array = Empty;
+- [ ] const array = ();
+
+
+5.  Índices de matriz começam em 0
+- [x] verdadeiro
+- [ ] falso 
+
+
+6. Como é calculado o comprimento de um array?
+- [ ] O comprimento total de uma matriz é o número de elementos na matriz menos um
+- [x] O comprimento total de uma matriz é o número de elementos na matriz
+- [ ] O comprimento total de uma matriz é o número de elementos na matriz mais um
+
+7. O que push faz em um array?
+- [ ] Adiciona um elemento ao início do array
+- [ ] Remove um elemento do início do array
+- [ ] Remove um elemento do final da matriz
+- [x] Adiciona um elemento ao final da matriz
+
+
+8. O que o pop faz com um array?
+- [ ] Adiciona um elemento ao final da matriz
+- [ ] Adiciona um elemento ao início do array
+- [x] Remove um elemento do final da matriz
+- [ ] Remove um elemento do início do array
+
+9. Dada a seguinte matriz: [88, 1322, 43, 564], qual valor está no índice 3 (isto é, matriz[3])?
+- [x] 564
+- [ ] 1322
+- [ ] 43
+- [ ] 88
+
 
 --------
 <p align="center">
