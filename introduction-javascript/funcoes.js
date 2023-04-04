@@ -12,3 +12,9 @@ console.log(product(12, 12));
 
 const bigProduct = product(5454, 134534);
 console.log(bigProduct);
+
+setTimeout(function () {
+  console.log("Hey! You rock!!!", 1000);
+});
+
+setTimeout(() => console.log("Hey! You rock!!!"), 1000);
