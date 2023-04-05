@@ -51,15 +51,15 @@
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="02">----</a></td>
-            <td>--/--/--</td>
-            <td align="center"><a href="02"><img width="300px" src="/preview.jpg" /></a></td>
+            <td><a href="https://github.com/rxaviersantos/TestAutomationUniversity/tree/main/introduction-javascript">Introduction to JavaScript</a></td>
+            <td>04/04/2023</td>
+            <td align="center"><a href="02"><img width="350px" src="https://user-images.githubusercontent.com/85380530/229965267-5ca4404a-5b63-4e6b-a017-d3425d867f39.png" /></a></td>
         </tr>
                 <tr>
             <td>02</td>
             <td><a href="02">----</a></td>
             <td>--/--/--</td>
-            <td align="center"><a href="02"><img width="300px" src="/preview.jpg" /></a></td>
+            <td align="center"><a href="02"><img width="350px" src="/preview.jpg" /></a></td>
         </tr>
 
 </table></p>
